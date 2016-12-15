@@ -7,6 +7,7 @@ int main(void)
 	int iRight = 100;
 	
 	int iSum = iLeft + iRight;
+	printf("Hello World\n");
 	printf("Result %d\n", iSum);
 	return 0;
 }
